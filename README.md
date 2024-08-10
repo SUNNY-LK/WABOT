@@ -1,0 +1,2 @@
+# WABOT
+My private bot
